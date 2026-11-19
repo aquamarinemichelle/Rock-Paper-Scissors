@@ -1,8 +1,8 @@
 A simple, interactive Rock-Paper-Scissors web game where you can challenge the computer in the classic hand game. Test your luck and strategy in this timeless battle of choices!
 
-🎮 Live Demo: https://michelle-rock-paper-scissor.netlify.app/
+--Live Demo: https://michelle-rock-paper-scissor.netlify.app/
 
-✨ Features
+-Features
 Clean, intuitive interface with responsive design
 
 Real-time gameplay with immediate feedback
@@ -17,7 +17,7 @@ Game history showing your previous choices and outcomes
 
 Mobile-friendly design that works on all devices
 
-🎯 How to Play
+-How to Play
 Choose your move: Click on Rock, Paper, or Scissors Icons.
 
 Computer makes its choice: Randomly generated
@@ -33,7 +33,7 @@ Scissors beats Paper
 Track your score: Wins, losses, and ties are recorded
 
 
-🛠️ Technologies Used
+-Technologies Used
 HTML5 - Page structure and semantics
 
 CSS3 - Styling and responsive design
